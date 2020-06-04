@@ -29,3 +29,6 @@ logs/
 ### VS Code ###
 .vscode/
 /.idea/
+/target/
+/logs/
+/.idea/
